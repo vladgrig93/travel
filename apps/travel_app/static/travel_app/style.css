@@ -1,0 +1,9 @@
+input{
+    display: block;
+}
+
+.reg_form{
+    border: 2px solid black;
+    padding:5px;
+    width:200px;
+}
